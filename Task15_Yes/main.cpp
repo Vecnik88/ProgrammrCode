@@ -2,16 +2,12 @@
 
 Write a program to see whether a number is an even multiple of 3
 
-Input:
-6
-Output:
-yes
+Input: 6
+Output: yes
 
 
-Input:
-9
-Output:
-no
+Input: 9
+Output: no
 */
 
 #include<iostream>

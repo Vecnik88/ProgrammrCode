@@ -26,7 +26,6 @@ Enter number of buses: 15
 We should take the cars
 Maybe we could take the buses
 Fine lets stay home then
-
 */
 
 #include <iostream>

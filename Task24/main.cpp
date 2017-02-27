@@ -18,7 +18,7 @@ buses==cars        We still cannot decide
 
 people>buses          All right let us just take the buses
 
-people <= buses      Fine let us stay home then
+people<=buses      Fine let us stay home then
 
 Enter number of people: 30
 Enter number of cars: 40

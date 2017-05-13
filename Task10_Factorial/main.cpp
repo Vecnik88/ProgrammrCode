@@ -1,5 +1,4 @@
 /* ### Task 10 ### Created by Vecnik88
-
     Find the factorial of a number n.
 
     Input:
